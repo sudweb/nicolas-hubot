@@ -10,5 +10,6 @@
   "hubot-trello",
   "hubot-mailchimp",
   "hubot-thank-you",
+  "hubot-has-no-idea",
   "hubot-shipit"
 ]
