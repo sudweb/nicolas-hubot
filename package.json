@@ -6,6 +6,7 @@
   "description": "Nicolas Hubot pour vous servir",
   "dependencies": {
     "hubot": "^2.18.0",
+    "hubot-answers": "^0.2.1",
     "hubot-cheer": "^0.1.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
